@@ -3,4 +3,6 @@ I am Changing this from my Local Laptop. Hope it finds its way.
 
 I created a branch where devBranch.txt was added. Now in my MAIN branch I am changing two.txt
 
-Making changes in development branch for this file. So that conflict can occur.
+
+We are now entering into 'staging' Branch. We will try to experience conflict between two branch when they are merging together.
+
