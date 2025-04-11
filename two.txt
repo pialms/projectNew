@@ -2,3 +2,5 @@ This is a second file for Learning GIT Hub
 I am Changing this from my Local Laptop. Hope it finds its way.
 
 I created a branch where devBranch.txt was added. Now in my MAIN branch I am changing two.txt
+
+We are now entering into 'staging' Branch. We will try to experience conflict between two branch when they are merging together.
